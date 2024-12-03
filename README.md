@@ -42,11 +42,11 @@ Below I shortly describe each module and what the key learning point of the modu
 
 ### Module04
 
-- **Assignment**: Templates and the Standard Template Library (STL).
+- **Assignment**: Abstract classes and interfaces.
 - **Key learning points**:
-  - Using templates for generic programming.
-  - Exploring the Standard Template Library (STL).
-  - Implementing and using iterators.
+  - Understanding abstract classes and pure virtual functions.
+  - Implementing interfaces in C++.
+  - Exploring the use of abstract classes in polymorphism.
 
 [Thanks to geeksforgeeks for providing explanation on most of these concepts](https://www.geeksforgeeks.org/c-plus-plus/?ref=gcse_outind)
 
