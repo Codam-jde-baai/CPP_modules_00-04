@@ -1,6 +1,6 @@
 # CPP Modules 00-04: Introduction to C++
 
-These **CPP modules** are my first Codam projects not written in pure C. In C, we had many restrictions, such as custom functions only, a maximum of 25 lines per function, and separate variable declarations. CPP modules leave us almost completely free to do whatever we want. To get a good introduction to C++, we were only allowed to use C++ standard 98 or standard 11, to avoid immediately using concepts like `auto` and lambda functions.
+These **CPP modules** are my first Codam projects not written in pure C. In C, we had many restrictions, such as custom functions only, a maximum of 25 lines per function, and separate variable declarations. CPP modules leave us almost completely free to do whatever we want. To get a good introduction to C++, we were only allowed to use C++ standard 98 or standard 11, to avoid immediately using of concepts like `auto` and lambda functions.
 
 The project requirements also explicitly stated to use CPP concepts and not to write C-like code. This was quite difficult and first because of how used I had gotten to writing in C.
 
